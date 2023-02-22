@@ -1,0 +1,22 @@
+.container_articles{
+    margin-top: 30px;
+
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    padding-top: 15%;
+}
+
+hr{
+    margin: 20px;
+}
+
+header{
+  
+    display: flex;
+    justify-content: center;
+}
